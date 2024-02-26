@@ -1,0 +1,23 @@
+body{
+    /* background-color: rgb(223, 156, 170); */
+    text-decoration: none;
+    background-image: url(https://i.ebayimg.com/images/g/p8QAAOSw~MJk9GLQ/s-l1600.png);
+     }
+     img{
+        border-radius: 30px;
+     }
+     .me{
+        float: right;
+         /* <link rel="icon" type="image/x-icon" href="/images/favicon.ico"> */
+     }
+     .para1{ 
+        text-align: right;
+        font-family: 'Courier New', Courier, monospace;
+     }
+     .sha{
+        float: right;
+     }
+        
+
+     p {border: 3px solid yellow;}
+     
